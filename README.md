@@ -1,6 +1,6 @@
 # Marketplace de productos para mascotas
 ## nombre
-Integrante 1
+YORDI AJEO ATAO HUAMAN 
 ## Descripción
 Marketplace académico de productos para mascotas.
 ## Caso de estudio
