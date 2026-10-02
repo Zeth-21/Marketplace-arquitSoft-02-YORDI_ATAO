@@ -1,1 +1,1 @@
-![Estilo arquitectónico](./arquite_monolitico.jpg)
+![Estilo arquitectónico](./estilo_arquitectonico.jpg)
