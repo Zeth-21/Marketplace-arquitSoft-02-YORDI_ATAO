@@ -1,0 +1,1 @@
+![Enfoque arquitectónico](./enfoque_arq.jpg)
